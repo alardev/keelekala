@@ -60,6 +60,8 @@ api/
 ### Serving Your App
 
 Navigate to the platform crate of your choice:
+
+:warning: **Warning**: install wasm-bindgen-cli with feature no-downloads
 ```bash
 cd web
 ```
